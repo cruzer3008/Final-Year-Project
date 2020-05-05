@@ -10,6 +10,7 @@ In the main directory - For mahabharata:
 In the directory Pride and Prejudice - We tried the similar thing on an english novel:
 1. Book_Split_AND_Words_csv_Generator.ipynb generates words.csv.
 2. Character List Generator.ipynb - we tried to make a list of characters in the book
-3. Word cloud - Similar to what was done above
+3. Word cloud - Similar to what was done above.
+
 Also the relation of a character to other characters can be generated for this book as done above (That file hasn't been written yet.)
 
