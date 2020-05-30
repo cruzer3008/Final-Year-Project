@@ -32,27 +32,49 @@ Regarding the layout of the repository, the project has been organized into thre
 	6.  The iPython Notebook _LDA_Mahabharata.ipynb_ performs LDA Analysis for topic modelling on Mahabharata. And generates an [interactive output](https://htmlpreview.github.io/?https://github.com/cruzer3008/Final-Year-Project/blob/master/Mahabharata/lda.html)
 
 ## Outputs
+<div align="center">
 
 #### Sentiment Analysis For Mahabharata 
 
 ![Sentiment Analysis Mahabharata](https://github.com/cruzer3008/Final-Year-Project/blob/master/Results/Mahabharat%20Sentiment.png?raw=True)
 
+- - -
 #### Word Cloud for Lord Krishna
 
-![Sentiment Analysis Mahabharata](https://github.com/cruzer3008/Final-Year-Project/blob/master/Results/WordCloud%20Krishna.png?raw=True)
+<div align="center">
+<img src="https://github.com/cruzer3008/Final-Year-Project/blob/master/Results/WordCloud%20Krishna.png?raw=True" >
+</div>
 
+- - -
 #### Topic Modelling Output for Mahabharata
 
 ![Sentiment Analysis Mahabharata](https://github.com/cruzer3008/Final-Year-Project/blob/master/Results/LDATable.png?raw=True)
-
+- - -
 #### Topic Modelling Interactive Output Screenshot
 
 ![Sentiment Analysis Mahabharata](https://github.com/cruzer3008/Final-Year-Project/blob/master/Results/LDAOutput.png?raw=True)
-
+- - -
 #### Sentiment Analysis for Sense and Sensibility
 
 ![Sentiment Analysis Mahabharata](https://github.com/cruzer3008/Final-Year-Project/blob/master/Results/AnyBook%20Sentiment.png?raw=True)
-
+- - -
 #### Character Cloud for Fanny from Sense and Sensibility
 
-![Sentiment Analysis Mahabharata](https://github.com/cruzer3008/Final-Year-Project/blob/master/Results/WordCloud%20Fanny.png?raw=True)
+<div align="center">
+<img src="https://github.com/cruzer3008/Final-Year-Project/blob/master/Results/WordCloud%20Fanny.png?raw=True" >
+</div>
+
+</div>
+
+
+## Tools
+
+1. __Python__ - NLTK, spaCy, Seaborn, Matplotlib
+2. __Algorithms__ - VADER, LDA
+3. __Development Platform__ - Jupyter
+
+## Project Report
+
+[Report](https://docs.google.com/document/d/1vuc7b_ztkjfG_3SR5wm116iDKeY01AhrtWPvK-5CkRY/edit)
+
+
