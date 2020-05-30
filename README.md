@@ -35,4 +35,5 @@ Regarding the layout of the repository, the project has been organized into thre
 
 #### Sentiment Analysis For Mahabharata 
 
-![Sentiment Analysis Mahabharata](Results/Mahabharat Sentiment.png)
+![Sentiment Analysis Mahabharata](https://github.com/cruzer3008/Final-Year-Project/blob/master/Results/Mahabharat%20Sentiment.png?raw=True)
+
