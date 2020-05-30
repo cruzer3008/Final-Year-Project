@@ -1,15 +1,20 @@
-# Final-Year-Project
+# Final Year Project
 
-Notebooks of interest are:-
+----
 
-In the Mahabharata directory:
-1. Words_csv_generator.ipynb generates a csv file consisting every word and attributes related to it. The file generated cannot be pushed to github since it exceeds 100 MB and thus will not be visible as of now.
-2. Network_Relation_Generator_For_Any_Character.ipynb generates the relation of a character with other characters
-3. WordCloud_For_Any_Character.ipynb generates word cloud describing the specified character.
+##Introduction
 
-In the directory Pride and Prejudice - We tried the similar thing on an english novel:
-1. Book_Split_AND_Words_csv_Generator.ipynb generates words.csv. The file generated cannot be pushed to github since it exceeds 100 MB and thus will not be visible as of now.
-2. Character List Generator.ipynb - We tried to make a list of characters in the book.
-3. Word cloud - Similar to what was done in the above case with mahabharata.
+ This project deals with the analysis of characters of the book, predicting their attributes and relationships amongst them. During the adaptation of a novel/book in any form, there goes a lot of human effort, which proves to be cumbersome and unwanted. Also, the human brain tends to ignore several minor details about the happenings/characters in the book. The above forth mentioned scenario can often lead to inaccuracy in the plot of the adaptation. The project is therefore an innovation that aims at aiding an easy and accurate adaptation of a book, thus making the process a whole lot simpler and precise. The model aims at scanning the humongous amounts of texts present in the book. Post scanning, the model will show interesting insights which are derived from the given book by applying a variety of analytical techniques based on a combination of natural language processing, sentiment/emotion analysis, and social network analysis method
 
-Also the relation of a character to other characters can be generated for this book as done above (That file hasn't been written yet.)
+---- 
+
+##Repository Layout
+
+Regarding the layout of the repository, the project has been organized into three folders:-
+
+1. __Human Names Generator__ - This folder consists of notebooks which are responsible for generating a master CSV file of all possible human names.
+ 1. There are __three__ CSV files, [Indian-Female-Names.csv](Human Names Generator/Indian-Female-Names.csv/), _Indian-Male-Names.csv_ and _Foreign-Names.csv_ which have been used.
+ 2. The iPython Notebook _Names List Generator.ipynb_ is responsible for generating the list of human names which are stored into a pickle file.
+ 3. The pickle file _humanNames.txt_ is the output of this particular stint and is used in the further course of the project.
+
+2. __Any Book__ - This folder performs analysis on an English novel, named [Sense and Sensisbility](http://www.gutenberg.org/cache/epub/161/pg161.txt)
