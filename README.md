@@ -37,3 +37,22 @@ Regarding the layout of the repository, the project has been organized into thre
 
 ![Sentiment Analysis Mahabharata](https://github.com/cruzer3008/Final-Year-Project/blob/master/Results/Mahabharat%20Sentiment.png?raw=True)
 
+#### Word Cloud for Lord Krishna
+
+![Sentiment Analysis Mahabharata](https://github.com/cruzer3008/Final-Year-Project/blob/master/Results/WordCloud%20Krishna.png?raw=True)
+
+#### Topic Modelling Output for Mahabharata
+
+![Sentiment Analysis Mahabharata](https://github.com/cruzer3008/Final-Year-Project/blob/master/Results/LDATable.png?raw=True)
+
+#### Topic Modelling Interactive Output Screenshot
+
+![Sentiment Analysis Mahabharata](https://github.com/cruzer3008/Final-Year-Project/blob/master/Results/LDAOutput.png?raw=True)
+
+#### Sentiment Analysis for Sense and Sensibility
+
+![Sentiment Analysis Mahabharata](https://github.com/cruzer3008/Final-Year-Project/blob/master/Results/AnyBook%20Sentiment.png?raw=True)
+
+#### Character Cloud for Fanny from Sense and Sensibility
+
+![Sentiment Analysis Mahabharata](https://github.com/cruzer3008/Final-Year-Project/blob/master/Results/WordCloud%20Fanny.png?raw=True)
